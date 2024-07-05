@@ -1,7 +1,7 @@
 <img align="" width="1000" height="400" src="https://www.mo.agency/hubfs/So%20you%20want%20to%20be%20a%20web%20developer.png" alt="">
-<h1 align="center">Hi 👋, I'm Sandeep Yadav</h1>
+<h1 align="center">Hi 👋, I'm Kuldeep Yadav</h1>
 
-<h3 align="center">I'm a passionate Java Backend  developer. I do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
+<h3 align="center">I'm a passionate Front End Developer. I do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kuldeep2804Yadav" alt="Kuldeep2804Yadav" /></a> </p>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
@@ -10,21 +10,20 @@
 
 I'm based in Mumbai, India
 
-💡 Some technologies that I love to working with includes Java, MySQL & Spring Boot.
+💡 Some technologies that I love to working with includes React, Javascript & Html ,CSS.
 
-😃 My interest includes Cybersecurity & Technology related things.
 
-📧 Email - sandyadav1414@gmail.com
+📧 Email - kuldeep2804yadav@gmail.com
 
-🤝 Connect with me on [Linkedin](https://www.linkedin.com/in/sandeep-yadav-002b14237/)
+🤝 Connect with me on [Linkedin](www.linkedin.com/in/kuldeep-webdeveloper)
 
-💼 Portfolio - [Sandeepyadav14.github.io](https://Sandeepyadav14.github.io)
+💼 Portfolio - [Kuldeep2804Yadav.github.io](https://kuldeep2804yadav.github.io/PortFolio/)
 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/sandyadav14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sandyadav14" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/sandeep-yadav-002b14237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep yadav" height="30" width="40" /></a>
+
+<a href="www.linkedin.com/in/kuldeep-webdeveloper-002b14237/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sandeep yadav" height="30" width="40" /></a>
 <a href="https://instagram.com/sandy_yadav14" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sandy_yadav14" height="30" width="40" /></a>
 </p>
 
