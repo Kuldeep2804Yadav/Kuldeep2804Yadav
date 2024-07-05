@@ -2,11 +2,11 @@
 <h1 align="center">Hi 👋, I'm Sandeep Yadav</h1>
 
 <h3 align="center">I'm a passionate Java Backend  developer. I do experiments and always ready for learning new things 😃. I focuses on writing clean, elegant and efficient code ✨.</h3>
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sandeepyadav14" alt="sandeepyadav14" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=Kuldeep2804Yadav" alt="Kuldeep2804Yadav" /></a> </p>
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kuldeep2804Yadav &label=Profile%20views&color=0e75b6&style=flat" alt="sandeepyadav14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sandeepyadav14 &label=Profile%20views&color=0e75b6&style=flat" alt="sandeepyadav14" /> </p>
 
 I'm based in Mumbai, India
 
