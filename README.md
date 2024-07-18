@@ -6,7 +6,7 @@
 <img align="right" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif" alt="">
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Sandeepyadav14 &label=Profile%20views&color=0e75b6&style=flat" alt="sandeepyadav14" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Kuldeep2804Yadav &label=Profile%20views&color=0e75b6&style=flat" alt="KuldeepYadav" /> </p>
 
 I'm based in Mumbai, India
 
@@ -15,7 +15,7 @@ I'm based in Mumbai, India
 
 📧 Email - kuldeep2804yadav@gmail.com
 
-🤝 Connect with me on [Linkedin](www.linkedin.com/in/kuldeep-webdeveloper)
+🤝 Connect with me on [Linkedin](www.linkedin.com/in/kuldeep-webdeveloper/)
 
 💼 Portfolio - [Kuldeep2804Yadav.github.io](https://kuldeep2804yadav.github.io/PortFolio/)
 
